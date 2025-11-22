@@ -5,49 +5,60 @@ import { motion, AnimatePresence } from "framer-motion";
 const CERTS = {
   tech: [
     {
-      title: "Flipkart Hackathon",
-      org: "Flipkart",
-      date: "2022",
-      img: "/certs/flipkart.jpg",
-      link: "/certs/flipkart.jpg",
-    },
-    {
-      title: "Solution Challenge",
-      org: "Google Developers",
-      date: "2023",
-      img: "/certs/hack2skill.png",
-      link: "/certs/hack2skill.png",
-    },
-    {
-      title: "ADira",
-      org: "SCET AI Club",
+      title: "DRDO Internship",
+      org: "Defence Research and Development Organisation",
       date: "2025",
-      img: "/certs/adira.png",
-      link: "/certs/adira.png",
+      img: "/certs/DRDO.jpg",
+      link: "/certs/DRDO.jpg",
     },
+    {
+      title: "Smart India Hackathon 2025",
+      org: "SIH",
+      date: "2025",
+      img: "/certs/SIH2.jpg",
+      link: "/certs/SIH2.jpg",
+    },
+    {
+      title: "HackWithIndia Hackathon 2025",
+      org: "HackWithIndia",
+      date: "2025",
+      img: "/certs/HackwithIndia.jpg.png",
+      link: "/certs/HackwithIndia.jpg.png",
+    },
+    {
+      title: "  Invictus 2025",
+      org: "DTU",
+      date: "2025",
+      img: "/certs/invictus.jpg.png",
+      link: "/certs/invictus.jpg.png",
+    },
+    
+    
+    {
+      title: "Smart India Hackathon 2024",
+      org: "SIH",
+      date: "2024",
+      img: "/certs/SIH.jpg",
+      link: "/certs/SIH.jpg",
+    },
+    {
+      title: " vesHack 2024",
+      org: "GGSIPU",
+      date: "2024",
+      img: "/certs/vesHack.jpg",
+      link: "/certs/vesHack.jpg",
+    },
+    
   ],
   other: [
     {
-      title: "codathon",
-      org: "SCET tech fest",
-      date: "2025",
-      img: "/certs/codathon.png",
-      link: "/certs/codathon.png",
-    },
-    {
-      title: "bugbuzz",
-      org: "SCET tech fest",
-      date: "2025",
-      img: "/certs/bugbuzz.png",
-      link: "/certs/bugbuzz.png",
-    },
-    {
-      title: "Dataloom",
-      org: "SCET",
+      title: "FifteenForTeen Internship",
+      org: "FFT",
       date: "2024",
-      img: "/certs/dataloom.png",
-      link: "/certs/dataloom.png",
+      img: "/certs/FFT.jpg",
+      link: "/certs/FFT.jpg",
     },
+    
   ],
 };
 
